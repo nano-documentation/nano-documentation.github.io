@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nanominer.info/sitemap_index.xml
