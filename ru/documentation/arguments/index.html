@@ -4,24 +4,24 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <!-- begin _includes/seo.html -->
-<title>GMiner: Настройки, Команды, Параметры Командной Строки</title>
+<title>Nanominer: Настройки, Команды, Параметры Командной Строки</title>
 <meta name="description" content="**">
  <meta name="author" content="Nanominer">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Nanominer">
-<meta property="og:title" content="GMiner: Настройки, Команды, Параметры Командной Строки">
+<meta property="og:title" content="Nanominer: Настройки, Команды, Параметры Командной Строки">
 <meta property="og:url" content="https://nanominer.info/documentation/arguments/">
  <meta property="og:description" content="**">
  <meta property="og:image" content="https://nanominer.info/assets/images/site-logo.png">
  <meta name="twitter:site" content="@Nanominer">
- <meta name="twitter:title" content="GMiner: Настройки, Команды, Параметры Командной Строки">
+ <meta name="twitter:title" content="Nanominer: Настройки, Команды, Параметры Командной Строки">
  <meta name="twitter:description" content="**">
  <meta name="twitter:url" content="https://nanominer.info/documentation/arguments/">
    <meta name="twitter:card" content="summary">
      <meta name="twitter:image" content="https://nanominer.info/assets/images/site-logo.png">
  <meta property="article:published_time" content="2021-06-02T00:00:00+00:00">
- <meta property="article:modified_time" content="2021-08-26T00:00:00+00:00">
+ <meta property="article:modified_time" content="2021-10-05T00:00:00+00:00">
 <link rel="canonical" href="https://nanominer.info/ru/documentation/arguments/">
 <script type="application/ld+json">
   {
@@ -143,13 +143,13 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
 </nav>
  </div>
  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-   <meta itemprop="headline" content="GMiner: Настройки, Команды, Параметры Командной Строки">
+   <meta itemprop="headline" content="Nanominer: Настройки, Команды, Параметры Командной Строки">
    <meta itemprop="description" content="**">
    <meta itemprop="datePublished" content="June 02, 2021">
-   <meta itemprop="dateModified" content="August 26, 2021"> 
+   <meta itemprop="dateModified" content="October 05, 2021"> 
    <div class="page__inner-wrap">
       <header>
-		 <h1 id="page-title" class="page__title" itemprop="headline">GMiner: Настройки, Команды, Параметры Командной Строки
+		 <h1 id="page-title" class="page__title" itemprop="headline">Nanominer: Настройки, Команды, Параметры Командной Строки
 </h1>
            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
   4 мин на чтение
@@ -185,9 +185,9 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
            </nav>
          </aside>
        <p>**
-<img srcset="/assets/images/documentation/mobile/nbminer.webp 323w,              /assets/images/documentation/webp/nbminer.webp 517w,              /assets/images/documentation/large/nbminer.webp 1920w" sizes="(max-width: 720px) 50px, 			(max-width: 721px) 1920px, 			(max-width: 1920px) 400px,             517px" src="/assets/images/documentation/jpeg/nbminer.png" alt="nbminer" loading="lazy" decoding="async"></p>
+<img srcset="/assets/images/documentation/mobile/nanominer.webp 323w,              /assets/images/documentation/webp/nanominer.webp 517w,              /assets/images/documentation/large/nanominer.webp 1920w" sizes="(max-width: 720px) 50px, 			(max-width: 721px) 1920px, 			(max-width: 1920px) 400px,             517px" src="/assets/images/documentation/jpeg/nanominer.png" alt="Nanominer" loading="lazy" decoding="async"></p>
 <h2 id="скачать">Скачать</h2>
-<p><a href="https://github.com/develsoftware/GMinerRelease" rel="nofollow noopener" target="_blank">Скачать</a></p>
+<p><a href="https://github.com/nanopool/nanominer/releases" rel="nofollow noopener" target="_blank">Скачать</a></p>
 <h2 id="параметры-командной-строки">Параметры командной строки：</h2>
 <div class="language-batch highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">miner</span> <span class="na">-a </span><span class="kd">algo</span> <span class="na">-o </span><span class="kd">protocol</span><span class="na">+socket</span>_type://pool_host:pool_port <span class="na">-u </span><span class="kd">wallet_address</span>.worker:passwd
 </code></pre></div></div>
@@ -284,9 +284,9 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
 <li>–enable-igpu    AMD igpu is disabled by default, set this option to enable.
  </li>
 <li>
-<strong>–mt, –memory-tweak &lt;mode&gt;    Memory timings optimize for Nvidia GDDR5 &amp; GDDR5X gpus. range [1-6]. Higher value equals higher hashrate. Individual value can be set via comma seperated list. Power limit may need to be tuned up to get more hashrate. Higher reject share ratio can happen if mining rig hits high temperature, set lower value of <code class="language-plaintext highlighter-rouge">-mt</code> can reduce reject ratio. Under windows, a custom driver need to be installed when using <code class="language-plaintext highlighter-rouge">-mt</code>, can installed manually by option  <code class="language-plaintext highlighter-rouge">--driver</code>, or run nbminer.exe with admin privilege to perform auto-install. Under linux, admin priviledge is needed to run, <code class="language-plaintext highlighter-rouge">sudo ./nbminer -mt x</code>. <code class="language-plaintext highlighter-rouge">OhGodAnETHlargementPill</code> is not needed anymore if <code class="language-plaintext highlighter-rouge">-mt</code> is enabled when mining on 1080 &amp; 1080ti GPUs.</strong>
+<strong>–mt, –memory-tweak &lt;mode&gt;    Memory timings optimize for Nvidia GDDR5 &amp; GDDR5X gpus. range [1-6]. Higher value equals higher hashrate. Individual value can be set via comma seperated list. Power limit may need to be tuned up to get more hashrate. Higher reject share ratio can happen if mining rig hits high temperature, set lower value of <code class="language-plaintext highlighter-rouge">-mt</code> can reduce reject ratio. Under windows, a custom driver need to be installed when using <code class="language-plaintext highlighter-rouge">-mt</code>, can installed manually by option  <code class="language-plaintext highlighter-rouge">--driver</code>, or run Nanominer.exe with admin privilege to perform auto-install. Under linux, admin priviledge is needed to run, <code class="language-plaintext highlighter-rouge">sudo ./Nanominer -mt x</code>. <code class="language-plaintext highlighter-rouge">OhGodAnETHlargementPill</code> is not needed anymore if <code class="language-plaintext highlighter-rouge">-mt</code> is enabled when mining on 1080 &amp; 1080ti GPUs.</strong>
  </li>
-<li>**–driver &lt;action&gt;    Windows only option, install / uninstall driver for <code class="language-plaintext highlighter-rouge">memory tweak</code>. Run with admin priviledge. install: <code class="language-plaintext highlighter-rouge">nbminer.exe --driver install</code>, uninstall: <code class="language-plaintext highlighter-rouge">nbminer.exe --driver uninstall</code>. **
+<li>**–driver &lt;action&gt;    Windows only option, install / uninstall driver for <code class="language-plaintext highlighter-rouge">memory tweak</code>. Run with admin priviledge. install: <code class="language-plaintext highlighter-rouge">Nanominer.exe --driver install</code>, uninstall: <code class="language-plaintext highlighter-rouge">Nanominer.exe --driver uninstall</code>. **
 </li>
 </ul>
 <h2 id="api-reference">API Reference</h2>
@@ -424,7 +424,7 @@ File: *Nanominer.exe, <br>
         <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
-        <a href="/download/2.70/" rel="permalink">Скачать GMiner 2.70 - NVIDIA+AMD GPU Майнер [2021]
+        <a href="/download/3.3.12/" rel="permalink">Скачать Nanominer 3.3.12 - NVIDIA+AMD GPU Майнер [2021]
 </a>
    </h2>
      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -432,9 +432,9 @@ File: *Nanominer.exe, <br>
 </p>
    <p class="archive__item-excerpt" itemprop="description">
 Начните добывать криптовалюту  с помощью GMiner
-		Версия: 2.70
+		Версия: 3.3.12
 		Файл: *gminer.exe, 
-		SHA256: 2a8c5a08649ff4a2f12b4c1bc4832463b8f1ec14186a6ae818685...</p>
+		SHA256: 2a8c5a08649ff4a2f12b4c1bc4832463b8f1ec14186a6ae8186...</p>
  </article>
 </div>
 <div class="grid__item">
@@ -443,7 +443,7 @@ File: *Nanominer.exe, <br>
         <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
-        <a href="/download/latest/" rel="permalink">Скачать GMiner - последнюю версию (2.70) - [2021]
+        <a href="/download/latest/" rel="permalink">Скачать Nanominer - последнюю версию (3.3.12) - [2021]
 </a>
    </h2>
      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -461,13 +461,13 @@ File: *Nanominer.exe, <br>
         <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
-        <a href="/documentation/setup/" rel="permalink">GMiner: Настройка для Binance Pool, ReadMe [2021]
+        <a href="/documentation/setup/" rel="permalink">Nanominer: Настройка для Binance Pool, ReadMe [2021]
 </a>
    </h2>
      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
   1 мин на чтение
 </p>
-   <p class="archive__item-excerpt" itemprop="description">Рассмотрены настройки программы GMiner 2.69 и новее.
+   <p class="archive__item-excerpt" itemprop="description">Рассмотрены настройки программы nanominer 2.69 и новее.
 </p>
  </article>
 </div>
@@ -478,7 +478,7 @@ File: *Nanominer.exe, <br>
  <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Метки: </strong>
     <span itemprop="keywords">
-      <a href="/tags/gminer" class="page__taxonomy-item" rel="tag">GMiner</a>
+      <a href="/tags/nanominer" class="page__taxonomy-item" rel="tag">Nanominer</a>
     </span>
  </p>
  <p class="page__taxonomy">
@@ -487,17 +487,17 @@ File: *Nanominer.exe, <br>
       <a href="/documentation" class="page__taxonomy-item" rel="tag">documentation</a>
     </span>
  </p>
-		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Дата изменения: <time datetime="2021-08-26T00:00:00+00:00">26.08.2021</time></p>
+		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Дата изменения: <time datetime="2021-10-05T00:00:00+00:00">05.10.2021</time></p>
      </footer>
      <section class="page__share">
    <h4 class="page__share-title">Поделиться</h4>
-  <a href="https://twitter.com/intent/tweet?via=Nanominer&amp;text=GMiner%26%2358%3B+%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%2C+%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%2C+%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B+%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9+%D0%A1%D1%82%D1%80%D0%BE%D0%BA%D0%B8%20https%3A%2F%2Fnanominer.info%2Fdocumentation%2Farguments%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Поделиться Twitter" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?via=Nanominer&amp;text=Nanominer%26%2358%3B+%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%2C+%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%2C+%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B+%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9+%D0%A1%D1%82%D1%80%D0%BE%D0%BA%D0%B8%20https%3A%2F%2Fnanominer.info%2Fdocumentation%2Farguments%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Поделиться Twitter" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnanominer.info%2Fdocumentation%2Farguments%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Поделиться Facebook" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
   <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnanominer.info%2Fdocumentation%2Farguments%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Поделиться LinkedIn" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
  <nav class="pagination">
       <a href="#" class="pagination--pager disabled">Предыдущая</a>
-      <a href="/documentation/setup/" class="pagination--pager" title="GMiner: Настройка для Binance Pool, ReadMe [2021]
+      <a href="/documentation/setup/" class="pagination--pager" title="Nanominer: Настройка для Binance Pool, ReadMe [2021]
 ">Следующая</a>
  </nav>
   <!-- comments -->
