@@ -34,4 +34,10 @@ var store = [{
         "tags": ["Nanominer"],
         "url": "https://nanominer.info/download/3.3.13/",
         "teaser": "https://nanominer.info/assets/images/thumbs/500x300.png"
+      },{
+        "title": "Clear 10 08",
+        "excerpt":"   ","categories": ["articles"],
+        "tags": [],
+        "url": "https://nanominer.info/ru/articles/clear-10-08/",
+        "teaser": "https://nanominer.info/assets/images/thumbs/500x300.png"
       },]

@@ -15,9 +15,9 @@
   
   
   <url>
-    <loc>https://nanominer.info/es/about/</loc>
+    <loc>https://nanominer.info/es/legal/about/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -27,9 +27,21 @@
   
   
   <url>
-    <loc>https://nanominer.info/es/cookie/</loc>
+    <loc>https://nanominer.info/es/legal/cookie/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
+       
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://nanominer.info/es/legal/disclaimer/</loc>
+      
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -41,7 +53,7 @@
   <url>
     <loc>https://nanominer.info/es/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -63,15 +75,27 @@
   
   
   <url>
-    <loc>https://nanominer.info/es/privacy/</loc>
+    <loc>https://nanominer.info/es/legal/privacy/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   
+  
+  
+  
+  
+  <url>
+    <loc>https://nanominer.info/es/legal/terms/</loc>
+      
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
+       
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
   
   
@@ -79,7 +103,7 @@
   <url>
     <loc>https://nanominer.info/es/articles/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -91,7 +115,7 @@
   <url>
     <loc>https://nanominer.info/es/blog/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -103,7 +127,7 @@
   <url>
     <loc>https://nanominer.info/es/documentation/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -115,7 +139,7 @@
   <url>
     <loc>https://nanominer.info/es/download/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -127,7 +151,7 @@
   <url>
     <loc>https://nanominer.info/es/video/</loc>
       
-        <lastmod>2021-10-07T19:04:27+00:00</lastmod>
+        <lastmod>2021-10-08T12:38:25+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
