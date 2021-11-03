@@ -1,6 +1,6 @@
 var store = [{
         "title": "Nanominer Setup Guide [2021]",
-        "excerpt":"You can use this list as a reference for all Launch Parameters supported by Nanominer.    You can download Nanominer 3.3.13 from here:   Download Now   Download (mirror)   Linux:  Under Linux you need to replace Nanominer.exe with ./Nanominer in the command-line examples below.   ","categories": ["documentation"],
+        "excerpt":"You can use this list as a reference for all Launch Parameters supported by Nanominer.    You can download Nanominer 3.4.2 from here:   Download Now   Download (mirror)   Linux:  Under Linux you need to replace Nanominer.exe with ./Nanominer in the command-line examples below.   ","categories": ["documentation"],
         "tags": ["Nanominer"],
         "url": "https://nanominer.info/documentation/setup/",
         "teaser": "https://nanominer.info/assets/images/thumbs/500x300.png"
