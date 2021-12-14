@@ -21,7 +21,7 @@
    <meta name="twitter:card" content="summary">
      <meta name="twitter:image" content="https://nanominer.info/assets/images/site-logo.png">
  <meta property="article:published_time" content="2021-06-02T00:00:00+00:00">
- <meta property="article:modified_time" content="2021-10-07T00:00:00+00:00">
+ <meta property="article:modified_time" content="2021-12-14T00:00:00+00:00">
 <link rel="canonical" href="https://nanominer.info/ru/documentation/setup/">
 <script type="application/ld+json">
   {
@@ -146,7 +146,7 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
    <meta itemprop="headline" content="Nanominer: Настройка для Binance Pool, ReadMe [2021]">
    <meta itemprop="description" content="Вы можете использовать этот список в качестве справочника для всех параметров запуска, поддерживаемых Nanominer.">
    <meta itemprop="datePublished" content="June 02, 2021">
-   <meta itemprop="dateModified" content="October 07, 2021"> 
+   <meta itemprop="dateModified" content="December 14, 2021"> 
    <div class="page__inner-wrap">
       <header>
 		 <h1 id="page-title" class="page__title" itemprop="headline">Nanominer: Настройка
@@ -178,6 +178,9 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
  </li>
 <li>
 <a href="#%D0%B1%D0%B0%D1%82%D0%BD%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-binance-pool">Батник для Binance pool</a>
+ </li>
+<li>
+<a href="#lhr">LHR</a>
 </li>
 </ul>
            </nav>
@@ -185,7 +188,7 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
        <p><em>Вы можете использовать этот список в качестве справочника для всех параметров запуска, поддерживаемых Nanominer.</em>
 <img srcset="/assets/images/documentation/mobile/nanominer.webp 323w,              /assets/images/documentation/webp/nanominer.webp 517w,              /assets/images/documentation/large/nanominer.webp 1920w" sizes="(max-width: 720px) 50px, 			(max-width: 721px) 1920px, 			(max-width: 1920px) 400px,             517px" src="/assets/images/documentation/jpeg/nanominer.png" alt="Nanominer" loading="lazy" decoding="async"></p>
 <h2 id="скачать">Скачать</h2>
-<p><a href="https://github.com/nanopool/nanominer/releases/download/v3.4.6/nanominer-windows-3.4.6.zip" class="btn btn--success btn--x-large" rel="nofollow noopener" target="_blank">Скачать сейчас</a></p>
+<p><a href="https://github.com/nanopool/nanominer/releases/download/v3.5.0/nanominer-windows-3.5.0.zip" class="btn btn--success btn--x-large" rel="nofollow noopener" target="_blank">Скачать сейчас</a></p>
 <h2 id="как-пользоваться">Как пользоваться</h2>
 <div class="panel panel-default" id="videoguide">
 	<link itemprop="url" href="/#videoguide">
@@ -266,6 +269,13 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
 <div class="language-batch highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">helper_scripts</span><span class="na">/cmdline</span>_launcher <span class="na">-algo </span><span class="kd">ethash</span> <span class="na">-coin </span><span class="kd">eth</span> <span class="na">-pool</span><span class="m">1</span> <span class="kd">ethash</span>.poolbinance.com:8888 <span class="na">-wallet </span><span class="kd">username1</span> <span class="na">-rigName </span><span class="kd">RIG_ID</span>
 <span class="nb">pause</span>
 </code></pre></div></div>
+<h2 id="lhr">LHR</h2>
+<p>LHR - Необязательный параметр для алгоритмов Ethash и Etchash. Может использоваться для установки желаемого процента от полного разблокированного хешрейта. Допустимый диапазон от 50 до 100.</p>
+<p>Также может быть установлен на <em>off</em> (-1) или <em>auto</em> (0). Используйте <em>off</em> для карт без LHR и <em>auto</em> для автоматического обнаружения и настройки карт LHR. По умолчанию <em>auto</em>.</p>
+<p>Этот параметр можно установить для каждого GPU отдельно. В этом случае порядок должен соответствовать порядку GPU, указанному в параметре _devices.</p>
+<div class="language-ini highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="py">devices</span><span class="p">=</span><span class="s">0,2,3</span>
+<span class="py">lhr</span><span class="p">=</span><span class="s">71.5,off,0</span>
+</code></pre></div></div>
      </section>
 	  	        <footer class="page__meta">
  <p class="page__taxonomy">
@@ -280,7 +290,7 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
       <a href="/documentation" class="page__taxonomy-item" rel="tag">documentation</a>
     </span>
  </p>
-		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Дата изменения: <time datetime="2021-10-07T00:00:00+00:00">07.10.2021</time></p>
+		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Дата изменения: <time datetime="2021-12-14T00:00:00+00:00">14.12.2021</time></p>
 			</footer>
 </div>
    </article>
@@ -293,9 +303,9 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
    <div class="row">
      <div class="down-inner">
        <h2 class="h2 mb-4 pb-2">Download now</h2>
-       <p class="text-center mx-auto mb-4 pb-2">Latest version is 3.4.6<br>
+       <p class="text-center mx-auto mb-4 pb-2">Latest version is 3.5.0<br>
 File: *Nanominer.exe, <br>
-<span class="break">SHA256: a20159fab2e526945c125ad537a0b5a71383e1eaae51845ade8d02da763d91cd</span><br></p>
+<span class="break">SHA256: 8e139d609ab73ffda5d1b0283b6336a9488db2a2eb8e33c20c98022a54b949cc</span><br></p>
        <hr class="hr-light" style="width: 3rem;">
        <ul class="rating mt-4 pt-2 mb-1">
 <li>
@@ -315,8 +325,8 @@ File: *Nanominer.exe, <br>
 </li>
 </ul>
        <p class="mb-4 pb-2"><small>Based on 1287+ reviews</small></p>
-        <button type="button" class="front-but win"> <a href="https://github.com/nanopool/nanominer/releases/download/v3.4.6/nanominer-windows-3.4.6.zip" target="_blank" rel="nofollow noopener">Download (windows)</a></button>
-				<button type="button" class="front-but lin"> <a href="https://github.com/nanopool/nanominer/releases/download/v3.4.6/nanominer-linux-3.4.6.tar.gz" rel="nofollow noopener" target="_blank">Download (linux)</a></button>
+        <button type="button" class="front-but win"> <a href="https://github.com/nanopool/nanominer/releases/download/v3.5.0/nanominer-windows-3.5.0.zip" target="_blank" rel="nofollow noopener">Download (windows)</a></button>
+				<button type="button" class="front-but lin"> <a href="https://github.com/nanopool/nanominer/releases/download/v3.5.0/nanominer-linux-3.5.0.tar.gz" rel="nofollow noopener" target="_blank">Download (linux)</a></button>
      </div>
    </div>
  </section>
@@ -327,6 +337,25 @@ File: *Nanominer.exe, <br>
    <div class="page__related">
      <h4 class="page__related-title">Вам также может понравиться</h4>
      <div class="grid__wrapper">
+<div class="grid__item">
+ <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+     <div class="archive__item-teaser">
+        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
+     </div>
+   <h2 class="archive__item-title" itemprop="headline">
+        <a href="/download/3.5.0/" rel="permalink">Скачать Nanominer 3.5.0 - NVIDIA+AMD GPU Майнер [2021]
+</a>
+   </h2>
+     <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+  менее 1 мин на чтение
+</p>
+   <p class="archive__item-excerpt" itemprop="description">
+Начните добывать криптовалюту  с помощью Nanominer
+		Версия: 3.5.0
+		Файл: *Nanominer.exe, 
+		SHA256: 8e139d609ab73ffda5d1b0283b6336a9488db2a2eb8e33...</p>
+ </article>
+</div>
 <div class="grid__item">
  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
      <div class="archive__item-teaser">
@@ -384,22 +413,6 @@ File: *Nanominer.exe, <br>
 		SHA256: a7ca253792a7268c63308d1a241958f1514cd0538403da...</p>
  </article>
 </div>
-<div class="grid__item">
- <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-     <div class="archive__item-teaser">
-        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
-     </div>
-   <h2 class="archive__item-title" itemprop="headline">
-        <a href="/ru/articles/trezor-11-22/" rel="permalink">Аппаратный Кошелек Трезор - Отзыв и Как купить
-</a>
-   </h2>
-     <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-  2 мин на чтение
-</p>
-   <p class="archive__item-excerpt" itemprop="description">
-</p>
- </article>
-</div>
      </div>
    </div>
     <!-- post navigation footer -->
@@ -412,7 +425,7 @@ File: *Nanominer.exe, <br>
  <nav class="pagination">
       <a href="/documentation/arguments/" class="pagination--pager" title="Nanominer: Настройки, Команды, Параметры Командной Строки
 ">Предыдущая</a>
-      <a href="/download/latest/" class="pagination--pager" title="Скачать Nanominer - последнюю версию (3.4.6) - [2021]
+      <a href="/download/latest/" class="pagination--pager" title="Скачать Nanominer - последнюю версию (3.5.0) - [2021]
 ">Следующая</a>
  </nav>
   <!-- comments -->
