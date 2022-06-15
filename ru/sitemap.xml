@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nanominer.info/ru/download/3.6.5/</loc>
+    
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://nanominer.info/ru/download/3.6.4/</loc>
     
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
@@ -197,7 +206,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/about/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -209,7 +218,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/cookie/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -221,7 +230,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/disclaimer/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -233,7 +242,7 @@
   <url>
     <loc>https://nanominer.info/ru/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -257,7 +266,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/privacy/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -271,7 +280,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/terms/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -283,7 +292,7 @@
   <url>
     <loc>https://nanominer.info/ru/articles/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -295,7 +304,7 @@
   <url>
     <loc>https://nanominer.info/ru/blog/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -307,7 +316,7 @@
   <url>
     <loc>https://nanominer.info/ru/documentation/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -319,7 +328,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -331,7 +340,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/page2/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -343,7 +352,7 @@
   <url>
     <loc>https://nanominer.info/ru/video/</loc>
       
-        <lastmod>2022-06-08T07:21:13+00:00</lastmod>
+        <lastmod>2022-06-15T05:31:48+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
