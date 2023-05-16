@@ -1,6 +1,6 @@
 var store = [{
         "title": "Nanominer 设置指南 [2023]",
-        "excerpt":"You can use this list as a reference for all Launch Parameters supported by Nanominer.    You can download Nanominer 3.7.7 from here:   Download Now   Download (mirror)   Linux:  Under Linux you need to replace Nanominer.exe with ./Nanominer in the command-line examples below.   获得钱包的最简单方法是在 Huobi 或 Kuna 等加密货币交易所注册。  ","categories": ["documentation"],
+        "excerpt":"You can use this list as a reference for all Launch Parameters supported by Nanominer.    You can download Nanominer 3.8.1 from here:   Download Now   Download (mirror)   Linux:  Under Linux you need to replace Nanominer.exe with ./Nanominer in the command-line examples below.   获得钱包的最简单方法是在 Huobi 或 Kuna 等加密货币交易所注册。  ","categories": ["documentation"],
         "tags": ["Nanominer"],
         "url": "https://nanominer.info/documentation/setup/",
         "teaser": "https://nanominer.info/assets/images/thumbs/500x300.png"

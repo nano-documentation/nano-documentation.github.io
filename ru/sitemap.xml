@@ -2,9 +2,18 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nanominer.info/ru/download/3.8.1/</loc>
+    
+    <lastmod>2023-05-16T00:00:00-04:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://nanominer.info/ru/download/3.7.7/</loc>
     
-    <lastmod>2023-03-07T00:00:00-05:00</lastmod>
+    <lastmod>2023-03-07T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.7.6/</loc>
     
-    <lastmod>2023-01-30T00:00:00-05:00</lastmod>
+    <lastmod>2023-01-30T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.7.4/</loc>
     
-    <lastmod>2022-09-30T00:00:00-05:00</lastmod>
+    <lastmod>2022-09-30T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -31,7 +40,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.7.2/</loc>
     
-    <lastmod>2022-09-25T00:00:00-05:00</lastmod>
+    <lastmod>2022-09-25T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -40,7 +49,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.7.1/</loc>
     
-    <lastmod>2022-09-13T00:00:00-05:00</lastmod>
+    <lastmod>2022-09-13T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -49,7 +58,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.7.0/</loc>
     
-    <lastmod>2022-08-26T00:00:00-05:00</lastmod>
+    <lastmod>2022-08-26T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -58,7 +67,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.8/</loc>
     
-    <lastmod>2022-07-15T00:00:00-05:00</lastmod>
+    <lastmod>2022-07-15T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -67,7 +76,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.7/</loc>
     
-    <lastmod>2022-06-29T00:00:00-05:00</lastmod>
+    <lastmod>2022-06-29T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -76,7 +85,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.6/</loc>
     
-    <lastmod>2022-06-28T00:00:00-05:00</lastmod>
+    <lastmod>2022-06-28T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -85,7 +94,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.5/</loc>
     
-    <lastmod>2022-06-15T00:00:00-05:00</lastmod>
+    <lastmod>2022-06-15T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -94,7 +103,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.4/</loc>
     
-    <lastmod>2022-06-08T00:00:00-05:00</lastmod>
+    <lastmod>2022-06-08T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -103,7 +112,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.3/</loc>
     
-    <lastmod>2022-05-21T00:00:00-05:00</lastmod>
+    <lastmod>2022-05-21T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -112,7 +121,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.2/</loc>
     
-    <lastmod>2022-04-27T00:00:00-05:00</lastmod>
+    <lastmod>2022-04-27T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -121,7 +130,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.6.0/</loc>
     
-    <lastmod>2022-03-30T00:00:00-05:00</lastmod>
+    <lastmod>2022-03-30T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -130,7 +139,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.5.2/</loc>
     
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
+    <lastmod>2021-12-24T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -139,7 +148,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.5.1/</loc>
     
-    <lastmod>2021-12-17T00:00:00-05:00</lastmod>
+    <lastmod>2021-12-17T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -148,7 +157,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.5.0/</loc>
     
-    <lastmod>2021-12-14T00:00:00-05:00</lastmod>
+    <lastmod>2021-12-14T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -157,7 +166,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.6/</loc>
     
-    <lastmod>2021-12-09T00:00:00-05:00</lastmod>
+    <lastmod>2021-12-09T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -166,7 +175,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.5/</loc>
     
-    <lastmod>2021-12-06T00:00:00-05:00</lastmod>
+    <lastmod>2021-12-06T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -175,7 +184,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.4/</loc>
     
-    <lastmod>2021-11-23T00:00:00-05:00</lastmod>
+    <lastmod>2021-11-23T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -184,7 +193,7 @@
   <url>
     <loc>https://nanominer.info/ru/articles/trezor-11-22/</loc>
     
-    <lastmod>2021-11-22T00:00:00-05:00</lastmod>
+    <lastmod>2021-11-22T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -193,7 +202,7 @@
   <url>
     <loc>https://nanominer.info/ru/articles/btc-11-15/</loc>
     
-    <lastmod>2021-11-15T00:00:00-05:00</lastmod>
+    <lastmod>2021-11-15T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -202,7 +211,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.3/</loc>
     
-    <lastmod>2021-11-12T00:00:00-05:00</lastmod>
+    <lastmod>2021-11-12T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -211,7 +220,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.2/</loc>
     
-    <lastmod>2021-11-03T00:00:00-05:00</lastmod>
+    <lastmod>2021-11-03T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -220,7 +229,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.1/</loc>
     
-    <lastmod>2021-10-31T00:00:00-05:00</lastmod>
+    <lastmod>2021-10-31T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -229,7 +238,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.4.0/</loc>
     
-    <lastmod>2021-10-30T00:00:00-05:00</lastmod>
+    <lastmod>2021-10-30T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -238,7 +247,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.3.13/</loc>
     
-    <lastmod>2021-10-07T00:00:00-05:00</lastmod>
+    <lastmod>2021-10-07T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -247,7 +256,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/3.3.12/</loc>
     
-    <lastmod>2021-10-05T00:00:00-05:00</lastmod>
+    <lastmod>2021-10-05T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -256,7 +265,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/latest/</loc>
     
-    <lastmod>2021-08-06T00:00:00-05:00</lastmod>
+    <lastmod>2021-08-06T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -265,7 +274,7 @@
   <url>
     <loc>https://nanominer.info/ru/documentation/setup/</loc>
     
-    <lastmod>2021-06-02T00:00:00-05:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -274,7 +283,7 @@
   <url>
     <loc>https://nanominer.info/ru/documentation/arguments/</loc>
     
-    <lastmod>2021-06-02T00:00:00-05:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -287,7 +296,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/about/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -299,7 +308,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/cookie/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -311,7 +320,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/disclaimer/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -323,7 +332,7 @@
   <url>
     <loc>https://nanominer.info/ru/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -347,7 +356,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/privacy/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -361,7 +370,7 @@
   <url>
     <loc>https://nanominer.info/ru/legal/terms/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -373,7 +382,7 @@
   <url>
     <loc>https://nanominer.info/ru/articles/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -385,7 +394,7 @@
   <url>
     <loc>https://nanominer.info/ru/blog/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -397,7 +406,7 @@
   <url>
     <loc>https://nanominer.info/ru/documentation/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -409,7 +418,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -421,7 +430,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/page2/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -433,7 +442,7 @@
   <url>
     <loc>https://nanominer.info/ru/download/page3/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -445,7 +454,7 @@
   <url>
     <loc>https://nanominer.info/ru/video/</loc>
       
-        <lastmod>2023-03-07T05:18:01-05:00</lastmod>
+        <lastmod>2023-05-16T07:48:27-04:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
